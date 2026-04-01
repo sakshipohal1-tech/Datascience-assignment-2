@@ -4,7 +4,7 @@ Movie Data Analysis using Python (Google Colab) - Assignment
 
 👩‍💻 Author
 
-Ishant Pal B.Tech Computer Science Engineering
+sakshi B.Tech Computer Science Engineering
 
 📌 Project Overview
 
